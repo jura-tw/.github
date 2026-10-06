@@ -14,9 +14,10 @@ A fast, static web reader for Taiwanese statutes commonly used in national exams
 
 ### Legal Citation CSLs
 
- - tssci-tier1-legal-citation-csl (under constructing)
-   - [tssci-tier1-legal-citation-web](https://github.com/jura-tw/tssci-tier1-legal-citation-web)
- - [public-law-csl](https://github.com/jura-tw/public-law-csl)
+ - `taiwan-law-journals-citation`: Taiwan's _Law Journals Citation Style Guide_ (under constructing)
+   - [Guide Reader](https://github.com/jura-tw/taiwan-law-journals-citation-reader)
+   - [CSL file](https://github.com/jura-tw/taiwan-law-journals-csl)
+ - [_Public Law_ CSL](https://github.com/jura-tw/public-law-csl)
 
 Citation Style Language (CSL) styles for legal citation and academic writing, with a focus on Taiwanese legal scholarship.
 
